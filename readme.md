@@ -97,6 +97,7 @@ Create, manage, and distribute content effectively.
 - [Grammarly](https://www.grammarly.com/) - Writing assistant and grammar checker
 - [CoSchedule](https://coschedule.com/) - Marketing calendar and workflow management
 - [Feedly](https://feedly.com/) - Content curation and RSS reader
+- [CreatorSkills](https://creatorskills.co) - Marketplace of 30+ downloadable AI skills for content creators covering YouTube scripting, sponsorship analysis, and audience growth. Works with Claude and ChatGPT.
 
 ## Customer Relationship Management (CRM)
 
