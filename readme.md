@@ -87,6 +87,7 @@ Optimize websites for search engines and improve organic traffic.
 - [Screaming Frog](https://www.screamingfrog.co.uk/seo-spider/) - Website crawler and SEO auditing tool
 - [Yoast SEO](https://yoast.com/wordpress/plugins/seo/) - WordPress SEO plugin
 - [toprank](https://github.com/nowork-studio/toprank) - Open-source Claude Code plugin (MIT) with 9 SEO and Google Ads skills.
+- [Kafkai](https://kafkai.com/) - Competitive intelligence platform for tracking competitor rankings and keywords, finding content gaps, and generating SEO content.
 
 ## Content Marketing
 
